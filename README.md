@@ -407,7 +407,7 @@ Exported data for year 2024 to table 'yellow_2024'
 
 <img src="./images/bnrj2nc3.png"
 style="width:2.01681in;height:1.23958in" /><img src="./images/ukvyonyt.png"
-style="width:2.12403in;height:1.23958in" /><img src="./images/f5dk5ey3.png" style="width:6.5in;height:0.70833in" /><img src="./numxesnj.png"
+style="width:2.12403in;height:1.23958in" /><img src="./images/f5dk5ey3.png" style="width:6.5in;height:0.70833in" /><img src="./images/numxesnj.png"
 style="width:1.67972in;height:1.03472in" /><img src="./images/fh10eaxu.png"
 style="width:1.70764in;height:1.04444in" /><img src="./images/podbh3uj.png"
 style="width:2.33792in;height:1.73056in" /><img src="./images/tlorpbp0.png"
@@ -419,12 +419,12 @@ Average fare per trip
 
 Top 5 pickup locations
 
-<img src="./w5eqawj1.png"
+<img src="./images/w5eqawj1.png"
 style="width:2.93569in;height:1.19653in" /><img src="./images/cqez3mpw.png"
 style="width:3.16222in;height:1.19444in" />Fare and tip distribution by
 payment type
 
-<img src="./mn3ndcte.png"
+<img src="./images/mn3ndcte.png"
 style="width:2.05056in;height:1.36319in" /><img src="./images/qwfgmt4m.png"
 style="width:2.01861in;height:1.35694in" />
 
@@ -465,7 +465,7 @@ followed by 75(East Harlem south).The yellow taxis had their top pickup
 locations in east side and west side north, which in conclusion reveals
 that Manhattan is the area with most taxi pick ups in New York.
 
-<img src="./5dhpxeqi.png"
+<img src="./images/5dhpxeqi.png"
 style="width:3.03319in;height:2.23056in" /><img src="./images/psslephb.png"
 style="width:2.985in;height:2.19514in" /><img src="./images/eyvuo312.png"
 style="width:2.88403in;height:2.18472in" /><img src="./images/wkfa3mbk.png"
@@ -478,12 +478,12 @@ taxis
 
 Hourly trip distribution separately for yellow and green taxis
 
-<img src="./qeaic2ot.png"
+<img src="./images/qeaic2ot.png"
 style="width:3.09375in;height:1.91667in" /><img src="./images/peyng0lj.png"
 style="width:3.09375in;height:1.91667in" />Histogram of fare amounts
 separately for Yellow and Green
 
-<img src="./1vbgnsd2.png"
+<img src="./images/1vbgnsd2.png"
 style="width:3.09375in;height:2.27083in" /><img src="./images/llkumt2p.png"
 style="width:3.09375in;height:2.21875in" />
 
